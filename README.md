@@ -31,7 +31,7 @@ A class should have **one reason to change**.
 
 Software entities should be **open for extension but closed for modification**.
 
-[Study OCP →]
+[Study OCP →](./02-OCP/README.md)
 
 ### L — Liskov Substitution Principle
 
