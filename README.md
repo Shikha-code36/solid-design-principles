@@ -37,7 +37,7 @@ Software entities should be **open for extension but closed for modification**.
 
 Subtypes should be **substitutable for their base types** without breaking the correctness of the program.
 
-[Study LSP →]
+[Study LSP →](./03-LSP/README.md)
 
 ### I — Interface Segregation Principle
 
