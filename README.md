@@ -43,7 +43,7 @@ Subtypes should be **substitutable for their base types** without breaking the c
 
 Clients should not be forced to depend on interfaces they **do not use**.
 
-[Study ISP →]
+[Study ISP →](./04-ISP/README.md)
 
 ### D — Dependency Inversion Principle
 
