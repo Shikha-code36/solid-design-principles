@@ -49,7 +49,7 @@ Clients should not be forced to depend on interfaces they **do not use**.
 
 High-level modules should not depend directly on low-level modules. Both should depend on **abstractions**.
 
-[Study DIP →]
+[Study DIP →](./05-DIP/README.md)
 
 ## How This Repository Is Organized
 
